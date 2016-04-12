@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\WheelView-master\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\android_github\WheelView-master\sample\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_8b48d1dc1f0b22d32f836d5abfac644ab8040b03.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WheelView-master\sample\build\intermediates\exploded-aar\com.wx.wheelview\wheelview\1.2.2\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a5ad2ede470f993ef39241979862125dd0df2a6">
+        <dex dex="D:\android_github\WheelView-master\sample\build\intermediates\pre-dexed\debug\com.wx.wheelview-wheelview-1.2.2_540715599d2647ca1d6522ba0fea66e1848a598d.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WheelView-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\android_github\WheelView-master\sample\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_7131810bae7a449607726344eec515c77815f725.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WheelView-master\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\android_github\WheelView-master\sample\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_274088ed83c30fcf5f1b01df4902ca84d292ff29.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WheelView-master\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\android_github\WheelView-master\sample\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_5ac07a0cdaacfc994d547892c569c612e9038db4.jar" />
+    </item>
+    <item
+        jar="D:\android_github\WheelView-master\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\android_github\WheelView-master\sample\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_68c466580ebb4668f8e4e0f664f0f89bc6493753.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\android_github\WheelView-master\sample\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_225d2608dd4ecc7e25c6c01d95dfbcfff242214a.jar" />
+    </item>
+
+</items>
